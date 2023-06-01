@@ -82,8 +82,8 @@ func WithClient(client HTTPClient) SDKOption {
 func New(opts ...SDKOption) *CriblDemo {
 	sdk := &CriblDemo{
 		_language:   "go",
-		_sdkVersion: "1.0.1",
-		_genVersion: "2.32.2",
+		_sdkVersion: "1.1.0",
+		_genVersion: "2.34.2",
 	}
 	for _, opt := range opts {
 		opt(sdk)

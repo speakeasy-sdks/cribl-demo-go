@@ -2,8 +2,8 @@ configVersion: 1.0.0
 management:
   docChecksum: 50629df32cb8be1cdc4501a232f47d4b
   docVersion: 4.1.2-ae45b4dd
-  speakeasyVersion: 1.37.11
-  generationVersion: 2.32.2
+  speakeasyVersion: 1.40.2
+  generationVersion: 2.34.2
 generation:
   comments:
     disableComments: false
@@ -13,6 +13,6 @@ generation:
   singleTagPerOp: false
   tagNamespacingDisabled: false
 go:
-  version: 1.0.1
+  version: 1.1.0
   maxMethodParams: "4"
   packageName: cribl-demo

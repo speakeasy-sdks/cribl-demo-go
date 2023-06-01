@@ -1,5 +1,6 @@
 certificates.go
 cribldemo.go
+.gitignore
 go.mod
 go.sum
 pkg/types/bigint.go
