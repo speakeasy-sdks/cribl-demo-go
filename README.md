@@ -53,10 +53,10 @@ func main() {
 ## Available Resources and Operations
 
 
-### [Certificates](docs/certificates/README.md)
+### [Certificates](docs/sdks/certificates/README.md)
 
-* [CreateCertificate](docs/certificates/README.md#createcertificate) - Create Certificate
-* [ListCertificates](docs/certificates/README.md#listcertificates) - Get a list of Certificate objects
+* [CreateCertificate](docs/sdks/certificates/README.md#createcertificate) - Create Certificate
+* [ListCertificates](docs/sdks/certificates/README.md#listcertificates) - Get a list of Certificate objects
 <!-- End SDK Available Operations -->
 
 ### Maturity

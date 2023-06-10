@@ -19,6 +19,11 @@ pkg/models/operations/createcertificate.go
 pkg/models/operations/listcertificates.go
 pkg/models/shared/error.go
 pkg/models/shared/certificate.go
-docs/cribldemo/README.md
-docs/certificates/README.md
+docs/sdks/cribldemo/README.md
+docs/sdks/certificates/README.md
 USAGE.md
+docs/models/operations/createcertificateresponse.md
+docs/models/operations/listcertificates200applicationjson.md
+docs/models/operations/listcertificatesresponse.md
+docs/models/shared/error.md
+docs/models/shared/certificate.md
